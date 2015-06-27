@@ -1,0 +1,14 @@
+{
+  "name": "dateFormat",
+  "main": "dateFormat.js",
+  "version": "1.0.0",
+  "description": "jquery dateFormat with AMD support",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "date",
+    "dateFormat"
+  ],
+  "license": "MIT"
+}
